@@ -65,7 +65,7 @@ Too much lossy compression may introduce visible artifacts.
 
 A convenient way to compress images is using browser-based tools that do not require uploading files to a server.
 
-For example, **Free Image Compression** allows users to compress images directly in the browser:
+For example, [**Free Image Compression**](https://www.freeimagecompression.com/) allows users to compress images directly in the browser:
 
 - No file uploads required
 - Batch image compression supported
