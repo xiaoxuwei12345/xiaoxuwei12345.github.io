@@ -2,5 +2,27 @@ title: My Blog
 description: Image tools and tech notes
 theme: minima
 
+# SEO 优化（重要）
+permalink: /blog/:title/
+
+# sitemap + feed（必须）
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+
+# 时区（建议加）
+timezone: UTC
+
+# 让搜索引擎更容易理解站点
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+# 可选：排除无关文件（减少干扰）
+exclude:
+  - README.md
+  - node_modules
+  - vendor
