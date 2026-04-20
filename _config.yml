@@ -1,3 +1,6 @@
 title: My Blog
 description: Image tools and tech notes
 theme: minima
+
+plugins:
+  - jekyll-sitemap
