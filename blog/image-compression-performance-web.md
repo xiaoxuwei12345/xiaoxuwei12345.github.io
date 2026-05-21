@@ -67,7 +67,7 @@ This approach offers several advantages:
 - Improved user privacy  
 - No installation or registration needed  
 
-For example, tools like https://www.freeimagecompression.com enable users to compress images directly in the browser, including batch processing, without uploading files to a server. This reflects a growing trend toward privacy-first, client-side web applications.
+For example, tools like [https://www.freeimagecompression.com](https://www.freeimagecompression.com) enable users to compress images directly in the browser, including batch processing, without uploading files to a server. This reflects a growing trend toward privacy-first, client-side web applications.
 
 ## Batch Compression and Workflow Efficiency
 
