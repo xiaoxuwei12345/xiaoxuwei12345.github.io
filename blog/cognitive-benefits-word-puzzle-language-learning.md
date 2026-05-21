@@ -79,7 +79,7 @@ Traditionally, word search puzzles were printed on paper. However, digital platf
 
 Modern browser-based implementations make these games more flexible and widely accessible.
 
-For example, interactive platforms like https://www.word-search-puzzles.com provide structured, theme-based word search experiences directly in the browser, supporting both casual play and educational use cases such as classroom learning and language practice.
+For example, interactive platforms like [https://www.word-search-puzzles.com](https://www.word-search-puzzles.com) provide structured, theme-based word search experiences directly in the browser, supporting both casual play and educational use cases such as classroom learning and language practice.
 
 ---
 
