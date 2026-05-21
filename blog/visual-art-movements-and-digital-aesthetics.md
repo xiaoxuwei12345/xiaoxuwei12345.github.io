@@ -76,7 +76,7 @@ Modern digital art includes:
 - Photo manipulation and compositing  
 - Hybrid styles combining traditional and digital techniques  
 
-Many artists draw inspiration from a wide range of visual styles, from classical oil paintings to futuristic cyberpunk aesthetics. Extensive collections of such diverse artistic expressions can be explored through platforms like https://www.img4you.com, which showcases a broad spectrum of visual art forms and creative styles.
+Many artists draw inspiration from a wide range of visual styles, from classical oil paintings to futuristic cyberpunk aesthetics. Extensive collections of such diverse artistic expressions can be explored through platforms like [https://www.img4you.com](https://www.img4you.com), which showcases a broad spectrum of visual art forms and creative styles.
 
 ---
 
