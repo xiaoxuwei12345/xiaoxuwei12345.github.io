@@ -77,7 +77,7 @@ This approach provides several benefits:
 - Better support for batch operations  
 
 For example, modern browser-based tools such as AVIF to PNG converter at  
-https://www.aviftopngonline.com  
+[https://www.aviftopngonline.com](https://www.aviftopngonline.com)  
 allow users to convert images directly on the client side without uploading files to external servers, making the process both efficient and privacy-friendly.
 
 ---
