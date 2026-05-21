@@ -112,7 +112,7 @@ Unlike traditional games, browser games usually avoid:
 Modern browsers are now powerful enough to support highly responsive game experiences directly online.
 
 For example, lightweight number-based puzzle games such as  
-https://www.2048merge.com
+[https://www.2048merge.com](https://www.2048merge.com)
 
 demonstrate how modern browser technology can deliver smooth, interactive gameplay without requiring downloads or registration.
 
