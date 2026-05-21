@@ -78,7 +78,7 @@ This approach offers several important advantages:
 - Efficient batch processing capabilities  
 
 For example, modern tools such as AVIF to JPG converter at  
-https://www.aviftojpgonline.com  
+[https://www.aviftojpgonline.com](https://www.aviftojpgonline.com)  
 allow users to convert images directly inside the browser without uploading files to external servers, making the process both fast and privacy-preserving.
 
 ---
