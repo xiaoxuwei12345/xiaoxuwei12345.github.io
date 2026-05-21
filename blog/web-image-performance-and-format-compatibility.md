@@ -101,7 +101,7 @@ This approach offers several advantages:
 - Better handling for batch operations  
 
 For example, browser-based tools such as  
-https://www.convertwebptojpg.com  
+[https://www.convertwebptojpg.com](https://www.convertwebptojpg.com)  
 allow users to convert WebP images into JPG directly inside the browser without sending files to external servers.
 
 This type of client-side processing is becoming increasingly popular as users become more privacy-conscious.
