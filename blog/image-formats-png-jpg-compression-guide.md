@@ -78,7 +78,7 @@ This approach provides several benefits:
 - Efficient batch conversion support  
 
 For example, tools such as PNG to JPG converter at  
-https://www.pngtojpgonline.com  
+[https://www.pngtojpgonline.com](https://www.pngtojpgonline.com)  
 allow users to convert images directly in the browser without uploading files to external servers, ensuring both speed and privacy.
 
 ---
