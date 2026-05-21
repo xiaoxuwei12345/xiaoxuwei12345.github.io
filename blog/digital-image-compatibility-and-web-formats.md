@@ -94,7 +94,7 @@ This approach offers several advantages:
 - Reduced server dependency  
 
 For example, browser-based tools such as  
-https://www.convertwebptojpg.com  
+[https://www.convertwebptojpg.com](https://www.convertwebptojpg.com)  
 allow users to convert WebP images into JPG locally on their device without registration or server uploads.
 
 This model is becoming increasingly popular because users value both convenience and data privacy.
