@@ -78,7 +78,7 @@ This shift provides several key benefits:
 - Efficient batch conversion capabilities  
 
 For example, browser-based tools such as PNG to WebP converter at  
-https://www.convertpngtowebp.com  
+[https://www.convertpngtowebp.com](https://www.convertpngtowebp.com)  
 allow users to convert images directly inside the browser without uploading files, making the process both fast and privacy-friendly.
 
 ---
