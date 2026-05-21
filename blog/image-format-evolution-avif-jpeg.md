@@ -70,7 +70,7 @@ Even though AVIF is efficient, there are many situations where conversion is req
 
 In such cases, converting AVIF to JPEG ensures maximum compatibility across environments.
 
-Modern tools have simplified this process significantly. For example, https://www.aviftojpgonline.com demonstrates how AVIF images can be converted into JPEG format directly in the browser, without uploading files to a server. This approach reduces latency and enhances privacy by keeping all processing local.
+Modern tools have simplified this process significantly. For example, [https://www.aviftojpgonline.com](https://www.aviftojpgonline.com) demonstrates how AVIF images can be converted into JPEG format directly in the browser, without uploading files to a server. This approach reduces latency and enhances privacy by keeping all processing local.
 
 ---
 
