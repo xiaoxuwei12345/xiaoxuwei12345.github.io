@@ -78,7 +78,7 @@ This approach provides several important benefits:
 - Efficient batch processing capabilities  
 
 For example, tools such as AVIF to WebP converter at  
-https://www.aviftowebp.com  
+[https://www.aviftowebp.com](https://www.aviftowebp.com)  
 allow users to perform image format conversion directly in the browser, eliminating the need for server-side uploads while maintaining both speed and privacy.
 
 ---
