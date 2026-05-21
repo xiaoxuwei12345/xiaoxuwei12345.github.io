@@ -63,7 +63,7 @@ This approach provides several advantages:
 - Better support for batch processing  
 
 A good example of this modern approach is AVIF to JPG conversion performed entirely on the client side, such as the tool available at  
-http://www.aviftojpgonline.com  
+[http://www.aviftojpgonline.com](http://www.aviftojpgonline.com)  
 
 Because everything runs locally in the browser, users can convert images instantly without registration or waiting for server-side processing.
 
