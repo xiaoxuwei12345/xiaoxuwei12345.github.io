@@ -81,7 +81,7 @@ Interactive digital implementations take this further by adding features like:
 - Auto-save progress  
 
 For example, some browser-based implementations such as  
-https://www.sudokufreeonline.com  
+[https://www.sudokufreeonline.com](https://www.sudokufreeonline.com)  
 demonstrate how Sudoku can be transformed into a fully interactive logical environment rather than a static paper puzzle.
 
 ---
