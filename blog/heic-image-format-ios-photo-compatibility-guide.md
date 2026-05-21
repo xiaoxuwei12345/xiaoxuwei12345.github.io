@@ -78,7 +78,7 @@ This shift offers several benefits:
 - Better handling of batch conversions  
 
 For example, tools such as HEIC to PNG converter at  
-https://www.heictopngonline.com  
+[https://www.heictopngonline.com](https://www.heictopngonline.com)  
 allow users to convert images directly inside the browser without uploading files to external servers, making the process both efficient and privacy-friendly.
 
 ---
