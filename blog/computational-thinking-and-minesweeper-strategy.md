@@ -34,7 +34,7 @@ Each revealed number indicates how many mines are adjacent to that cell, creatin
 
 For example:
 
-:contentReference[oaicite:0]{index=0}
+[https://www.onlineminesweeper.com/](https://www.onlineminesweeper.com/)
 
 This simple rule creates a complex network of constraints that players must analyze carefully.
 
