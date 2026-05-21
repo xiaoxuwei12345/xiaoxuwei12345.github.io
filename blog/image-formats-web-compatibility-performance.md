@@ -76,7 +76,7 @@ This approach provides several advantages:
 - Efficient batch processing capabilities  
 
 For example, modern tools such as WebP to JPG converter at  
-https://www.convertwebptojpg.com  
+[https://www.convertwebptojpg.com](https://www.convertwebptojpg.com)  
 allow users to perform conversions directly inside the browser, eliminating the need for server-side processing or account registration.
 
 ---
