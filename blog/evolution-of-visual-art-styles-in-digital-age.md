@@ -63,7 +63,7 @@ Online image collections now frequently include:
 This accessibility encourages creative cross-pollination between cultures and generations.
 
 For example, platforms such as  
-https://www.img4you.com  
+[https://www.img4you.com](https://www.img4you.com)  
 offer broad collections spanning traditional paintings, illustration styles, digital aesthetics, and experimental visual art, making it easier for creators and learners to explore diverse artistic references in one place.
 
 ---
