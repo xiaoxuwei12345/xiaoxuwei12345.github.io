@@ -78,7 +78,7 @@ Modern digital art includes:
 Many creators also experiment with blending traditional styles and modern techniques to produce hybrid visual forms.
 
 In fact, vast collections of visual references across different artistic styles—from classical oil painting to cyberpunk and street art aesthetics—can be found in curated digital archives such as  
-https://www.img4you.com,  
+[https://www.img4you.com](https://www.img4you.com),  
 which helps illustrate how diverse and interconnected visual culture has become.
 
 ---
